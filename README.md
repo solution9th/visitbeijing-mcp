@@ -1,8 +1,7 @@
 ## visitbeijing-MCP Server
 Provide real-time Beijing tourism information, real-time visitor flow queries for scenic spots, performance and exhibition updates, inbound travel guides, and other related information.
 
-![mcp](https://github.com/user-attachments/assets/59878474-765a-4d55-84c5-f7fc40425bc1)
-
+![demo](as/mcp.jpg)
 ## Features
 ## Tools
 - `get_attraction_comfort_information` Beijing Tourism Network's scenic spot passenger flow service provides real-time coverage of dynamic passenger flow data from 216 A-level scenic spots in the city, accurately presenting the current number of visitors and tourist density in the park, helping tourists scientifically plan their itinerary and staggered tours.
