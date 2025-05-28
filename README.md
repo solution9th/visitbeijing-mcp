@@ -13,9 +13,14 @@ Provide real-time Beijing tourism information, real-time visitor flow queries fo
 {
   "mcpServers": {
     "visitbeijing": {
-      "url": "http://mcp.visitbeijing.com.cn/sse"
+      "url": "http://mcp.visitbeijing.com.cn/sse?ak=XXXXXXX"
     }
   }
 }
 ```
 
+## Contact Us
+Please reach out to [lishuo@huaqniu.com][1] for our certification. We take security and privacy very seriously, and we are committed to protecting data.
+
+
+  [1]: mailto:lishuo@huanqiu.com
